@@ -1,0 +1,3 @@
+[submodule "aws/cloudy"]
+	path = aws/cloudy
+	url = https://github.com/jasondebolt/cloudy
